@@ -1,4 +1,4 @@
-## Hi I'm Halimat 👋
+## Hi I'm Halimat Sadiat Yaya 👋
 
 A Full-Stack Developer with Msc in Business. Having recently transitioned to software development. I'm Passionate about building dynamic, responsive, and user-focus web applications
 
