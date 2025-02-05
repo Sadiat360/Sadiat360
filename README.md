@@ -8,3 +8,7 @@ A Full-Stack Developer with Msc in Business. Having recently transitioned to sof
 -->
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Sadiat360&show_icons=true&theme=radical)
+
+## 🔥 Streak Stats  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sadiat360&theme=dark)
+
