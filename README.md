@@ -7,7 +7,4 @@ A Full-Stack Developer with Msc in Business. Having recently transitioned to sof
 
 -->
 
-## 🔥 Streak Stats  
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sadiat360&theme=dark)
-
 
