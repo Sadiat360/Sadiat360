@@ -5,6 +5,10 @@ A Full-Stack Developer with Msc in Business. Having recently transitioned to sof
 - 👯 I’m looking for Front-end or Full stack internship roles or Junior Dev roles.
 - 📫 How to reach me: https://www.linkedin.com/in/halimatsadiat-yaya/
 
+🚀 What I'm Working On:
+"I'm currently developing a beauty/cosmetic E-commerce web/app to refine my skills in JavaScript, React, Redux, store management, RESTful APIs, Node.js, database management, and commercial payment gateways.
+
+This project allows me to deepen my understanding of state management, secure transactions, and user experience optimization while applying real-world development practices. I'm excited to integrate modern UI/UX design, API interactions, and scalable architecture to build a seamless shopping experience!"
 -->
 ### 🚀 Tech Stack
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
