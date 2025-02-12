@@ -12,6 +12,8 @@ A Full-Stack Developer with Msc in Business. Having recently transitioned to sof
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-%2361DAFB.svg?style=for-the-badge&logo=redux&logoColor=black)
+![mySql](https://img.shields.io/badge/MySql-%2361DAFB.svg?style=for-the-badge&logo=mySql&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-%2361DAFB.svg?style=for-the-badge&logo=node.js&logoColor=black)
 
 
 
